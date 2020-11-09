@@ -1,4 +1,4 @@
-#Programa que pede um número para contagem e se será uma contagem normal, de números ímpares ou pares
+#Programa que pede um número e imprime uma tabuada
 
 n = float(input("Deseja múltiplos para qual número?: "))
 escolha = int(input("Quantos múltiplos?: "))
