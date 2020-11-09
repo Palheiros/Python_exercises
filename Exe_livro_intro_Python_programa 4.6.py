@@ -1,4 +1,5 @@
-
+#Pergunta a distância da viagem e retorna o preço da passagem
+#Viagens de até 200Km preço de 0,50 por km e acima 0,45.
 
 km = int(input("A sua viagem será de quantos Km?: "))
 
